@@ -11,9 +11,9 @@
     </a>
     <!-- Right navbar links -->
     <ul class="navbar-nav ml-auto">
-        <li class="nav-item">
+        <!-- <li class="nav-item">
             <div class="login-user text-light font-weight-bolder">Hello!, <?= $_SESSION['display_name'] ?>!</div>
-        </li>
+        </li> -->
     </ul>
 </nav>
 <!-- /.navbar -->
